@@ -41,7 +41,7 @@ La licenciante no puede revocar estas libertades en tanto usted siga los términ
 
 Enlaces de interés 👀
 
-[Tablero en Trello] https://trello.com/invite/b/PCXpQMQm/286e03220d53a345d114f23a96785466/proyecto-de-catedra
+[Tablero en Trello] https://trello.com/b/PCXpQMQm/proyecto-de-catedra
 
 [Video de funcionamiento(Diseños)] - https://www.youtube.com/...
 
