@@ -62,6 +62,6 @@ Enlaces de interés 👀
 
 [Enlace a Documento PDF con explicación del sistema] - https://drive.google.com/file/d/1DaNq_LfCVDE8uKUjYEWxFWKR8vh-J_tA/view?usp=sharing
 
-[Enlace al manual de usuario] - ...
+[Enlace al manual de usuario] - https://drive.google.com/file/d/1_HUTlwJpVgJcQf9-syeqsrhze5LqAaPz/view?usp=sharing
 
 [Enlace al manual tecnico] - ...
