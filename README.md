@@ -26,6 +26,17 @@ William Ernesto Rodríguez Reyes -
 
 Fatima Montano Perez -			
 
+Metodologia de trabajo:
+SCRUM
+
+ROLES:
+Jeffrey Portillo:
+
+Marcos Hernandez:
+
+Fatima Montano Lopez:
+
+William Reyes:
 
 
 Licencia 📄
