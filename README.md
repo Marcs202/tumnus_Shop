@@ -16,7 +16,7 @@ sitio web.
 
 
 
-Autores ✒️
+Autores GT03✒️
 
 Jeffrey Xavier Portillo Saravia - 				
 
@@ -26,8 +26,8 @@ William Ernesto Rodríguez Reyes -
 
 Fatima Montano Perez -			
 
-Metodologia de trabajo:
-SCRUM
+
+Metodologia de trabajo SCRUM
 
 ROLES:
 Jeffrey Portillo:
@@ -52,13 +52,11 @@ Enlaces de interés 👀
 
 [Tablero en Trello] https://trello.com/b/PCXpQMQm/proyecto-de-catedra
 
-[Video de funcionamiento(Diseños)] - ...
-
 [Video de funcionamiento(Página web)] - ...
 
 [Enlace a Diseños en Mockups] - https://drive.google.com/drive/folders/1Jl7_PAY1Ox0_sdifMJ68gbryOGbX1Skl?usp=sharing
 
-[Enlace a Documento PDF con explicación del sistema] -....
+[Enlace a Documento PDF con explicación del sistema] - 
 
 [Enlace al manual de usuario] - ...
 
