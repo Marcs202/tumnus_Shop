@@ -41,11 +41,15 @@ William Reyes:
 
 Licencia 📄
 
-Este proyecto está bajo la licencia Atribución-No Comercial-Compartir Igual 4.0 Internacional (CC BY-NC-SA 4.0) Que establece:
+Este proyecto está bajo la licencia Atribución-NoComercial CC BY-NC Que establece:
 
-Usted es libre de: Compartir, copiar y redistribuir el material en cualquier medio o formato Adaptar — remezclar, transformar y construir a partir del material. 
-La licenciante no puede revocar estas libertades en tanto usted siga los términos de la licencia.
-
+Es libre de:
+Compartir: Copiar y redistribuir el material en cualquier medio o formato
+Adaptar: Remezclar, transformar y construir a partir del material
+La licenciante no puede revocar estas libertades en tanto usted siga los términos de la licencia
+Bajo los siguientes términos:
+Atribución: Usted debe dar crédito de manera adecuada, brindar un enlace a la licencia, e indicar si se han realizado cambios. Puede hacerlo en cualquier forma razonable, pero no de forma tal que sugiera que usted o su uso tienen el apoyo de la licenciante.
+No Comercial: Usted no puede hacer uso del material con propósitos comerciales.
 
 
 Enlaces de interés 👀
@@ -56,7 +60,7 @@ Enlaces de interés 👀
 
 [Enlace a Diseños en Mockups] - https://drive.google.com/drive/folders/1Jl7_PAY1Ox0_sdifMJ68gbryOGbX1Skl?usp=sharing
 
-[Enlace a Documento PDF con explicación del sistema] - 
+[Enlace a Documento PDF con explicación del sistema] - https://drive.google.com/file/d/1DaNq_LfCVDE8uKUjYEWxFWKR8vh-J_tA/view?usp=sharing
 
 [Enlace al manual de usuario] - ...
 
