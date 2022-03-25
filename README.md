@@ -8,10 +8,8 @@ En este proyecto se desarrolla, la creación de una tienda online para lo que se
 ## Herramientas Principales🛠️
 
 * [Balsamiq Mockups 3.5] https://balsamiq.com/wireframes/mockups3fordesktop/ - Programa para formar diseños de nuestro proyecto.
-
 * [diagrams.net] https://staruml.io - Será una herramienta muy necesaria para la realización de nuestros diagramas UML del
 sistema.
-
 * [Visual Studio] https://code.visualstudio.com/download - Editor de código fuente que les permitirá a nuestros desarrolladores la creación de nuestro
 sitio web.
 
@@ -28,7 +26,7 @@ sitio web.
 * Fátima Gisela Montano Pérez -			
 
 
-## Metodologia de trabajo SCRUM 👥
+## Metodología de trabajo SCRUM 👥
 
 **ROLES:**
 * Product Owner: Marcos Hernandez 
