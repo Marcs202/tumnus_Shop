@@ -1,7 +1,7 @@
 # TUMNUS Shop
 
 
-_Proyecto TUMNUS_
+_**Proyecto TUMNUS**_
 
 En este proyecto se desarrolla, la creación de una tienda online para lo que sería en un futuro, una tienda real de ropa y calzado.
 
@@ -26,12 +26,14 @@ sitio web.
 * Fátima Gisela Montano Pérez -			
 
 
+
 ## Metodología de trabajo SCRUM 👥
 
 **ROLES:**
-* Product Owner: Marcos Hernandez 
-* SCRUM Master: Fatima Montano
+* Product Owner: Marcos Hernández 
+* SCRUM Master: Fátima Montano
 * SCRUM Team: Jeffrey Portillo, William Reyes
+
 
 
 ## Licencia 📄
@@ -45,6 +47,7 @@ La licenciante no puede revocar estas libertades en tanto usted siga los términ
 Bajo los siguientes términos:
 Atribución: Usted debe dar crédito de manera adecuada, brindar un enlace a la licencia, e indicar si se han realizado cambios. Puede hacerlo en cualquier forma razonable, pero no de forma tal que sugiera que usted o su uso tienen el apoyo de la licenciante.
 No Comercial: Usted no puede hacer uso del material con propósitos comerciales.
+
 
 
 ## Enlaces de interés 👀
