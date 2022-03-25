@@ -3,7 +3,7 @@
 
 _**Proyecto TUMNUS**_
 
-En este proyecto se desarrolla, la creación de una tienda online para lo que sería en un futuro, una tienda real de ropa y calzado.
+En este proyecto se desarrolla la creación de una tienda online para, lo que sería en un futuro, una tienda real de ropa y calzado.
 
 ## Herramientas Principales🛠️
 
