@@ -8,7 +8,7 @@ En este proyecto se desarrolla, la creación de una tienda online para lo que se
 ## Herramientas Principales🛠️
 
 * [Balsamiq Mockups 3.5] https://balsamiq.com/wireframes/mockups3fordesktop/ - Programa para formar diseños de nuestro proyecto.
-* 
+
 * [diagrams.net] https://staruml.io - Será una herramienta muy necesaria para la realización de nuestros diagramas UML del
 sistema.
 
