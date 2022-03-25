@@ -1,33 +1,34 @@
 # TUMNUS Shop
 
 
-*Proyecto TUMNUS*
+_Proyecto TUMNUS_
+
 En este proyecto se desarrolla, la creación de una tienda online para lo que sería en un futuro, una tienda real de ropa y calzado.
 
 ## Herramientas Principales🛠️
 
-[Balsamiq Mockups 3.5] https://balsamiq.com/wireframes/mockups3fordesktop/ - Programa para formar diseños de nuestro proyecto.
+* [Balsamiq Mockups 3.5] https://balsamiq.com/wireframes/mockups3fordesktop/ - Programa para formar diseños de nuestro proyecto.
 
-[diagrams.net] https://staruml.io - Será una herramienta muy necesaria para la realización de nuestros diagramas UML del
+* [diagrams.net] https://staruml.io - Será una herramienta muy necesaria para la realización de nuestros diagramas UML del
 sistema.
 
-[Visual Studio] https://code.visualstudio.com/download - Editor de código fuente que les permitirá a nuestros desarrolladores la creación de nuestro
+* [Visual Studio] https://code.visualstudio.com/download - Editor de código fuente que les permitirá a nuestros desarrolladores la creación de nuestro
 sitio web.
 
 
 
 ## Autores GT03✒️
 
-Jeffrey Xavier Portillo Saravia - 				
+* Jeffrey Xavier Portillo Saravia - 				
 
-Marcos de Jesús Hernández Sorto - 
+* Marcos de Jesús Hernández Sorto - 
 
-William Ernesto Rodríguez Reyes -							
+* William Ernesto Rodríguez Reyes -							
 
-Fatima Montano Perez -			
+* Fátima Gisela Montano Pérez -			
 
 
-## Metodologia de trabajo SCRUM
+## Metodologia de trabajo SCRUM 👥
 
 ROLES:
 * Product Owner: Marcos Hernandez 
