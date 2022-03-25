@@ -17,7 +17,7 @@ sitio web.
 
 
 
-## Autores GT03✒️
+## Autores✒️
 
 * Jeffrey Xavier Portillo Saravia - 				
 
@@ -30,7 +30,7 @@ sitio web.
 
 ## Metodologia de trabajo SCRUM 👥
 
-ROLES:
+**ROLES:
 * Product Owner: Marcos Hernandez 
 * SCRUM Master: Fatima Montano
 * SCRUM Team: Jeffrey Portillo, William Reyes
