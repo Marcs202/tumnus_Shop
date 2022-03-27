@@ -56,7 +56,7 @@ No Comercial: Usted no puede hacer uso del material con propósitos comerciales.
 
 * [Tablero en Trello] https://trello.com/b/PCXpQMQm/proyecto-de-catedra
 
-* [Video de funcionamiento(Página web)] - ...
+* [Video de funcionamiento(Página web)] - ... https://www.youtube.com/watch?v=apeTTJ5gw9Y&t=4s
 
 * [Enlace a Diseños en Mockups] - https://drive.google.com/drive/folders/1Jl7_PAY1Ox0_sdifMJ68gbryOGbX1Skl?usp=sharing
 
@@ -64,4 +64,4 @@ No Comercial: Usted no puede hacer uso del material con propósitos comerciales.
 
 * [Enlace al manual de usuario] - https://drive.google.com/file/d/1_HUTlwJpVgJcQf9-syeqsrhze5LqAaPz/view?usp=sharing
 
-* [Enlace al manual tecnico] - ...
+* [Enlace al manual tecnico] - ... https://docs.google.com/document/d/1od88rd48PstTHj_z6BEBnSurNVAjlCrp/edit?usp=drivesdk&ouid=103412511058286027346&rtpof=true&sd=true
