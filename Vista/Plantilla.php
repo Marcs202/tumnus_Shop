@@ -286,7 +286,7 @@
                                                     <h4 class="my-0 font-weight-bold">CAMISETA</h4>
                                                 </div>
                                                 <div class="card-body">
-                                                    <img src="../img/camisa_fresh.jpg" class="card-img-top">
+                                                    <img src="img/camisa_fresh.jpg" class="card-img-top">
                                                     <h1 class="card-title pricing-card-title precio">S/. <span class="">5000</span></h1>
 
                                                     <ul class="list-unstyled mt-3 mb-4">

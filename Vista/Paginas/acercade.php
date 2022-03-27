@@ -76,7 +76,7 @@
                     </a>
                 </li>
                 <li>
-                    <a href="">
+                    <a href="../Paginas/carrito.php?carrito">
                         <i class="fas fa-cart-plus"></i>
                         <p>Carrito de compras</p>
                     </a>
@@ -415,11 +415,11 @@
 					 <div class="colum2">
 						 <h1>Redes Sociales</h1>
 						 <div class="row">
-							 <img src="img/facebook.png">
+							 <img src="../../img/facebook.png">
 							 <label><a href="https://www.facebook.com/willian.reyes.71">Siguenos en Facebook</label></a>
 						 </div>
 						 <div class="row">
-							 <img src="img/instagram.png">
+							 <img src="../../img/instagram.png">
 							 <label><a href="https://www.instagram.com/jeff_elmajo/?hl=es">Siguenos en Instagram</label></a>
 						 </div>                      
 					 </div>
@@ -427,15 +427,15 @@
 					 <div class="colum3">
 						 <h1>Informacion Contactos</h1> 
 						 <div class="row2">
-							 <img src="img/house.png">
+							 <img src="../../img/house.png">
 							 <label>Ciudadela Don Bosco, Soyapango, San Salvador.</label>
 						 </div> 
 						 <div class="row2">
-							 <img src="img/smartphone.png">
+							 <img src="../../img/smartphone.png">
 							 <label>+503 7136-4955</label>
 						 </div>
 						 <div class="row2">
-							 <img src="img/contact.png">
+							 <img src="../../img/contact.png">
 							  <label>tumnus@gmail.com</label>
 						 </div>
 	 

@@ -1,3 +1,15 @@
+<?php
+require_once 'vendor/autoload.php';
+require_once 'config.php';
+$client = new Google_Client();
+$client->setClientId($clientID);
+$client->setClientSecret($clientSecret);
+$client->setRedirectUri($redirectUri);
+$client->addScope("email");
+$client->addScope("profile");
+$uri = $client->createAuthUrl();
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -78,28 +90,30 @@
                         <i class="fas fa-cart-plus"></i>
                         <p>Carrito de compras</p>
                     </a>
-                </li>
-    
-            </ul>
-    
-    
+                </li>    
+            </ul>        
         </nav>
         <button type="button" id="sidebarCollapse" class="btn btn-dark btn-info">
                 <i class="fas fa-align-justify"></i>
         </button>
-        <div class="login-info-container-btn">
-            
-            
+        <div class="login-info-container-btn">            
             <div class="login-bar">
                 <div class="login-container">
                     <div class="login-info-container">
                         <h1 class="title">Iniciar sesion</h1>
-                        <form class="inputs-container">
+                        <form class="inputs-container" method="post"> 
                             <input class="input" type="text" placeholder="Usuario">
                             <input class="input" type="password" placeholder="Contraseña">
                             <p class="parrafoFormulario"> ¿Olvido la contraseña?<span class="span">  Click aquí</span></p>
                             <button class="btn">Iniciar sesion</button>
                             <p class="parrafoFormulario">¿No esta registrado?<span class="span">  Registrarse</span></p>
+                            <p>
+                                <hr width="75%" size="50" color="#FF00FF">
+                            </p>                              
+                            <?php                    
+                            // echo '<button class="btnGoogle" href="../Paginas/damas.php?Paginas=damas"><img src="../../img/logo-googleblack.png" id="imgGoogle">Entrar con Google</button>';
+                            echo "<a href='".$uri."' class='btnGoogle'><img src='../../img/logo-googleblack.png' id='imgGoogle'>Entrar con Google</a>";
+                            ?>                      
                         </form> 
                     </div>
                     <div class="image-container">
@@ -111,7 +125,6 @@
         </div>
         
     </div>
-    
     
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
 	<!-- Popper.JS -->
@@ -142,6 +155,7 @@
     <script>
         
     </script>
+
 	<footer>       
         <div class="container-footer-all">         
              <div class="container-body"> 

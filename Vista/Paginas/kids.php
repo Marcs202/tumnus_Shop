@@ -63,7 +63,7 @@
 						<li>
 						</li>
 						<li>
-							<a href="caballeros.html">
+							<a href="../Paginas/caballeros.php?Paginas=caballeros">
 								<h7>Caballeros</h7>
 							</a>
 						</li>
@@ -75,19 +75,19 @@
 					</ul>
 				</li>
 				<li>
-					<a href="Paginas/login.php?login">
+					<a href="../Paginas/login.php?login">
 						<i class="fas fa-address-card"></i>
 						<p>Iniciar sesion</p>
 					</a>
 				</li>
 				<li>
-					<a href="Paginas/acercade.php?acerca">
+					<a href="../Paginas/acercade.php?acerca">
 						<i class="fas fa-question"></i>
 						<p>Acerca de</p>
 					</a>
 				</li>
 				<li>
-					<a href="Paginas/carrito.php?carrito">
+					<a href="../Paginas/carrito.php?carrito">
 						<i class="fas fa-cart-plus"></i>
 						<p>Carrito de compras</p>
 					</a>
