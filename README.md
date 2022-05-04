@@ -1,55 +1,67 @@
 # TUMNUS Shop
 
 
-*Proyecto TUMNUS*
-En este proyecto se desarrolla, la creación de una tienda online para lo que sería en un futuro, una tienda real de ropa y calzado.
+_**Proyecto TUMNUS**_
 
-Herramientas Principales🛠️
+En este proyecto se desarrolla la creación de una tienda online para, lo que sería en un futuro, una tienda real de ropa y calzado.
 
-[Balsamiq Mockups 3.5] https://balsamiq.com/wireframes/mockups3fordesktop/ - Framework para formar diseños de nuestro proyecto.
+## Herramientas Principales🛠️
 
-[diagrams.net] http://iyfbodn.com/?dn=diagramas.net&pid=9POT3387I - Será una herramienta muy necesaria para la realización de nuestros diagramas del
+* [Balsamiq Mockups 3.5] https://balsamiq.com/wireframes/mockups3fordesktop/ - Programa para formar diseños de nuestro proyecto.
+
+* [diagrams.net] https://staruml.io - Será una herramienta muy necesaria para la realización de nuestros diagramas UML del
 sistema.
 
-[Visual Studio] https://code.visualstudio.com/download - Editor de código fuente que les permitirá a nuestros desarrolladores la creación de nuestro
+* [Visual Studio] https://code.visualstudio.com/download - Editor de código fuente que les permitirá a nuestros desarrolladores la creación de nuestro
 sitio web.
 
 
 
-Autores ✒️
+## Autores✒️
 
-Jeffrey Xavier Portillo Saravia - 				
+* Jeffrey Xavier Portillo Saravia - 				
 
-Marcos de Jesús Hernández Sorto - 
+* Marcos de Jesús Hernández Sorto - 
 
-William Ernesto Rodríguez Reyes -							
+* William Ernesto Rodríguez Reyes -							
 
-Fatima Montano Perez -			
-
-Daniel Santos Miranda López - 
+* Fátima Gisela Montano Pérez -			
 
 
 
-Licencia 📄
+## Metodología de trabajo SCRUM 👥
 
-Este proyecto está bajo la licencia Atribución-No Comercial-Compartir Igual 4.0 Internacional (CC BY-NC-SA 4.0) Que establece:
+**ROLES:**
+* Product Owner: Marcos Hernández 
+* SCRUM Master: Fátima Montano
+* SCRUM Team: Jeffrey Portillo, William Reyes
 
-Usted es libre de: Compartir, copiar y redistribuir el material en cualquier medio o formato Adaptar — remezclar, transformar y construir a partir del material. 
-La licenciante no puede revocar estas libertades en tanto usted siga los términos de la licencia.
+
+
+## Licencia 📄
+
+Este proyecto está bajo la licencia Atribución-NoComercial CC BY-NC Que establece:
+
+Es libre de:
+Compartir: Copiar y redistribuir el material en cualquier medio o formato
+Adaptar: Remezclar, transformar y construir a partir del material
+La licenciante no puede revocar estas libertades en tanto usted siga los términos de la licencia
+Bajo los siguientes términos:
+Atribución: Usted debe dar crédito de manera adecuada, brindar un enlace a la licencia, e indicar si se han realizado cambios. Puede hacerlo en cualquier forma razonable, pero no de forma tal que sugiera que usted o su uso tienen el apoyo de la licenciante.
+No Comercial: Usted no puede hacer uso del material con propósitos comerciales.
 
 
 
-Enlaces de interés 👀
+## Enlaces de interés 👀
 
-[Tablero en Trello] https://trello.com/invite/b/PCXpQMQm/286e03220d53a345d114f23a96785466/proyecto-de-catedra
+* [Tablero en Trello] https://trello.com/b/PCXpQMQm/proyecto-de-catedra
 
-[Video de funcionamiento(Diseños)] - https://www.youtube.com/...
+* [Video de funcionamiento(Página web)] - ... https://www.youtube.com/watch?v=apeTTJ5gw9Y&t=4s
 
-[Video de funcionamiento(Página web)] - https://www.youtube.com/...
+* [Enlace a Diseños en Mockups] - https://drive.google.com/drive/folders/1Jl7_PAY1Ox0_sdifMJ68gbryOGbX1Skl?usp=sharing
 
-[Enlace a Mockups] - ...
+* [Enlace a Documento PDF con explicación del sistema] - https://drive.google.com/file/d/1DaNq_LfCVDE8uKUjYEWxFWKR8vh-J_tA/view?usp=sharing
 
-[Enlace a Documento PDF con explicación del sistema] -....
+* [Enlace al manual de usuario] - https://drive.google.com/file/d/1_HUTlwJpVgJcQf9-syeqsrhze5LqAaPz/view?usp=sharing
 
-[Enlace al manual de usuario] - ...
-[Enlace al manual tecnico] - ...
+* [Enlace al manual tecnico] - ... https://docs.google.com/document/d/1od88rd48PstTHj_z6BEBnSurNVAjlCrp/edit?usp=drivesdk&ouid=103412511058286027346&rtpof=true&sd=true
