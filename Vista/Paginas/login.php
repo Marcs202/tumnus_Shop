@@ -21,9 +21,9 @@ $uri = $client->createAuthUrl();
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<title>Login</title>
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css" integrity="sha384-9gVQ4dYFwwWSjIDZnLEWnxCjeSWFphJiwGPXr1jddIhOegiu1FwO5qRGvFXOdJZ4" crossorigin="anonymous">
-	<link rel="stylesheet" type="text/css" href="../../css/StyleBody.css">
-	<link rel="stylesheet" type="text/css" href="../../css/styleResponsive.css">
-    <link rel="stylesheet" type="text/css" href="../../css/style.css">
+	<link rel="stylesheet" type="text/css" href="../css/StyleBody.css">
+	<link rel="stylesheet" type="text/css" href="../css/styleResponsive.css">
+    <link rel="stylesheet" type="text/css" href="../css/style.css">
 	<link rel="stylesheet" href="../../css/login.css">
     <link rel="stylesheet" href="../../css/footer.css">
 	<script defer src="https://use.fontawesome.com/releases/v5.0.13/js/solid.js" integrity="sha384-tzzSw1/Vo+0N5UhStP3bvwWPq+uvzCMfrN1fEFe+xBmv1C/AtVX5K0uZtmcHitFZ" crossorigin="anonymous"></script>
@@ -35,7 +35,7 @@ $uri = $client->createAuthUrl();
 
         <nav id="sidebar">
             <div class="sidebar-header">
-                <h3>Tumnus Shopp</h3>
+                <h3>Tumnus Shopp2</h3>
                 <strong>TS</strong>
             </div>
     
