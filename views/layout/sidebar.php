@@ -1,7 +1,19 @@
+<?php
+require_once 'vendor/autoload.php';
+require_once 'config.php';
+$client = new Google_Client();
+$client->setClientId($clientID);
+$client->setClientSecret($clientSecret);
+$client->setRedirectUri($redirectUri);
+$client->addScope("email");
+$client->addScope("profile");
+$uri = $client->createAuthUrl();
+?>
+
 <!-- BARRA LATERAL -->
 <aside id="lateral">
 
-	<div id="carrito" class="block_aside">
+	<div id="carrito" class=" contenedor-menu">
 		<h3>Mi carrito</h3>
 		<ul>
 			<?php $stats = Utils::statsCarrito(); ?>
@@ -11,7 +23,7 @@
 		</ul>
 	</div>
 	
-	<div id="login" class="block_aside">
+	<div id="login" class=" ">
 		
 		<?php if(!isset($_SESSION['identity'])): ?>
 			<h3>Entrar a la web</h3>
@@ -20,11 +32,13 @@
 				<input type="email" name="email" />
 				<label for="password">Contraseña</label>
 				<input type="password" name="password" />
-				<input type="submit" value="Enviar" />
+				<input class="btn" type="submit" value="Ingresar" /><br>		
+				<a href="<?=$uri?>" class='btnGoogle'><img src='assets/img/logo-googleblack.png' id='imgGoogle'>Log in</a>				
 			</form>
 		<?php else: ?>
-			<h3><?=$_SESSION['identity']->Nombre?> <?=$_SESSION['identity']->Apellido?></h3>
-		<?php endif; ?>
+			<h3><?=$_SESSION['identity']->Nombre?> <?=$_SESSION['identity']->Apellidos?></h3>			
+		<?php endif; ?>		
+		
 
 		<ul>
 			<?php if(isset($_SESSION['admin'])): ?>
