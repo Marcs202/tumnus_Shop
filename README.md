@@ -62,6 +62,6 @@ No Comercial: Usted no puede hacer uso del material con propósitos comerciales.
 
 * [Enlace a Documento PDF con explicación del sistema] - https://drive.google.com/file/d/1DaNq_LfCVDE8uKUjYEWxFWKR8vh-J_tA/view?usp=sharing
 
-* [Enlace al manual de usuario] - https://drive.google.com/file/d/1_HUTlwJpVgJcQf9-syeqsrhze5LqAaPz/view?usp=sharing
+* [Manual de Usuario] - https://drive.google.com/file/d/1BA_zEsvu3QTZTqqhZERPIL7qM_hjGgKK/view?usp=sharing
 
-* [Enlace al manual tecnico] - ... https://docs.google.com/document/d/1od88rd48PstTHj_z6BEBnSurNVAjlCrp/edit?usp=drivesdk&ouid=103412511058286027346&rtpof=true&sd=true
+* [Manual Técnico] - https://drive.google.com/file/d/1dNO0fUA1p-NXQjQ7tnh_unIVvK2yr7PW/view?usp=sharing
