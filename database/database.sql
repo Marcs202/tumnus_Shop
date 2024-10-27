@@ -14,6 +14,12 @@ CONSTRAINT uq_email UNIQUE(email)
 )ENGINE=InnoDb;
 
 INSERT INTO usuarios VALUES(NULL, 'Admin', 'Admin', 'admin@admin.com', 'contraseña', 'admin', null);
+CREATE TABLE empleos (
+    id INT(11) AUTO_INCREMENT NOT NULL,
+    nombreEmpleo VARCHAR(100) NOT NULL,
+    descripcionEmpleo VARCHAR(255) NOT NULL,
+    PRIMARY KEY (id)
+)ENGINE=InnoDb;
 
 CREATE TABLE categorias(
 id              int(255) auto_increment not null,

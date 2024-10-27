@@ -33,6 +33,7 @@ class categoriaController{
 	public function crear(){
 		Utils::isAdmin();
 		require_once 'views/categoria/crear.php';
+		
 	}
 	
 	public function save(){
